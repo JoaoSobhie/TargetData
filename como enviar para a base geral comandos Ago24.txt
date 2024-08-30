@@ -1,0 +1,117 @@
+C:\Users\Wilson.Aruk\TargetData>git add .
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.28 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.28.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.29 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.29.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.30 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.30.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.31 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.31.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.32 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.32.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.33 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.33.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.34 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.34.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.35 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.35.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.37 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.37.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57 (2).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57 (3).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (2).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (3).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (4).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (5).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.59 (1).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.59 (2).xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.59.xml', LF will be replaced by CRLF the next time Git touches it
+
+C:\Users\Wilson.Aruk\TargetData>git config --global wilson.aruk@gmail.com
+
+C:\Users\Wilson.Aruk\TargetData>git config --global user.name wilsonaruk
+
+C:\Users\Wilson.Aruk\TargetData>git commit -m "subindo as imagens treinadas"
+[master 1110dc4] subindo as imagens treinadas
+ 64 files changed, 1557 insertions(+)
+ create mode 100644 classes.txt
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.28 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.28 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.28.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.28.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.29 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.29 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.29.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.29.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.30 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.30 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.30.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.30.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.31 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.31 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.31.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.31.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.32 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.32 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.32.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.32.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.33 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.33 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.33.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.33.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.34 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.34 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.34.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.34.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.35 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.35 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.35.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.35.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.36.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.37 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.37 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.37.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.15.37.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57 (2).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57 (2).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57 (3).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57 (3).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.57.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (2).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (2).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (3).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (3).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (4).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (4).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (5).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58 (5).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.58.xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.59 (1).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.59 (1).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.59 (2).jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.59 (2).xml
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.59.jpeg
+ create mode 100644 compostoIndoor/WhatsApp Image 2024-08-29 at 11.55.59.xml
+
+C:\Users\Wilson.Aruk\TargetData>git push origin master
+Enumerating objects: 68, done.
+Counting objects: 100% (68/68), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (66/66), done.
+Writing objects: 100% (66/66), 9.91 MiB | 499.00 KiB/s, done.
+Total 66 (delta 31), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (31/31), completed with 2 local objects.
+To https://github.com/JoaoSobhie/TargetData.git
+   78b53b0..1110dc4  master -> master
+
+C:\Users\Wilson.Aruk\TargetData>
