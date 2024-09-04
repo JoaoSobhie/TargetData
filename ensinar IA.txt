@@ -1,0 +1,20 @@
+C:\Users\Wilson.Aruk>cd..
+
+C:\Users>cd,,
+C:\Users
+
+C:\Users>cd..
+
+C:\>cd dev
+
+C:\Dev>cd git
+
+C:\Dev\git>cd labelimg
+
+C:\Dev\git\labelImg>python labelImg.py c:\users\wilson.aruk\targetData\compostoIndoor c:\users\wilson.aruk\targetdata\classes.txt
+[('9', [(539, 414), (732, 414), (732, 597), (539, 597)], None, None, False), ('9', [(394, 694), (557, 694), (557, 839), (394, 839)], None, None, False), ('10', [(683, 686), (845, 686), (845, 854), (683, 854)], None, None, False)]
+
+C:\Dev\git\labelImg>python labelImg.py c:\users\wilson.aruk\targetData\compostoIndoor c:\users\wilson.aruk\targetdata\classes.txt
+[('9', [(539, 414), (732, 414), (732, 597), (539, 597)], None, None, False), ('9', [(394, 694), (557, 694), (557, 839), (394, 839)], None, None, False), ('10', [(683, 686), (845, 686), (845, 854), (683, 854)], None, None, False)]
+
+C:\Dev\git\labelImg>python labelImg.py c:\users\wilson.aruk\targetData\compostoIndoor c:\users\wilson.aruk\targetdata\classes.txt

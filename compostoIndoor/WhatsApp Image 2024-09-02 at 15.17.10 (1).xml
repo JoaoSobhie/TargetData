@@ -1,0 +1,50 @@
+<annotation>
+	<folder>composto indoor</folder>
+	<filename>WhatsApp Image 2024-09-02 at 15.17.10 (1).jpeg</filename>
+	<path>C:\Dev\git\TargetData\composto indoor\WhatsApp Image 2024-09-02 at 15.17.10 (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>423</ymin>
+			<xmax>572</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>9 linha 10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>727</ymin>
+			<xmax>391</xmax>
+			<ymax>1076</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>720</ymin>
+			<xmax>804</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+</annotation>
